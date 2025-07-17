@@ -105,6 +105,14 @@ Uma aplicação web inteligente que utiliza Inteligência Artificial para gerar 
 
 4. **Clique em "Gerar conteúdo"** e aguarde o processamento
 
+## 🌐 Aplicação Online
+
+**Teste a aplicação diretamente no seu navegador:**
+
+🔗 **[https://llm-marketing.streamlit.app/](https://llm-marketing.streamlit.app/)**
+
+*Não é necessário instalar nada - apenas acesse o link e comece a usar!*
+
 ## 📁 Estrutura do Projeto
 
 ```
